@@ -1,3 +1,34 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c4d4d3378046da2bf3a14921562da4541d5357aff13ba93b51334ea3141e3db6
-size 638
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Git/OL/OLVS/OpusLoriDemoVS/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Git/OL/OLVS/OpusLoriDemoVS/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Git/OL/OLVS/OpusLoriDemoVS/Content/Levels/NewMap_Main.umap",
+				"C:/Git/OL/OLVS/OpusLoriDemoVS/Content/Levels/Cin_Intro.umap",
+				"C:/Git/OL/OLVS/OpusLoriDemoVS/Content/StarterContent/Props/MaterialSphere.uasset",
+				"C:/Git/OL/OLVS/OpusLoriDemoVS/Content/Gothic_Character/Material/M_Gothic_Character_Overcoat.uasset",
+				"C:/Git/OL/OLVS/OpusLoriDemoVS/Content/DemoContent/BP_TCFGameMode.uasset",
+				"C:/Git/OL/OLVS/OpusLoriDemoVS/Content/Blueprints/BP_Trigger_Bandits.uasset",
+				"C:/Git/OL/OLVS/OpusLoriDemoVS/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"C:/Git/OL/OLVS/OpusLoriDemoVS/Content/MSPresets/M_MS_Billboard_Material/M_MS_Billboard_Material.uasset",
+				"C:/Git/OL/OLVS/OpusLoriDemoVS/Content/MSPresets/M_MS_Default_Fuzz_Material/M_MS_Default_Fuzz_Material.uasset",
+				"C:/Git/OL/OLVS/OpusLoriDemoVS/Content/MSPresets/M_MS_Default_Material/M_MS_Default_Material.uasset",
+				"C:/Git/OL/OLVS/OpusLoriDemoVS/Content/MSPresets/M_MS_Foliage_Material/M_MS_Foliage_Material.uasset",
+				"C:/Git/OL/OLVS/OpusLoriDemoVS/Content/Levels/Cin_Intro_Seq_06.uasset",
+				"C:/Git/OL/OLVS/OpusLoriDemoVS/Content/Levels/Cin_Intro_Seq_Scene2.uasset",
+				"C:/Git/OL/OLVS/OpusLoriDemoVS/Content/TempestCombatFramework/Characters/Curto_PlayerCharacters/BP_SAG_ThirdPersonCharacter_Child_MainCharacter_Child.uasset",
+				"C:/Git/OL/OLVS/OpusLoriDemoVS/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Git/OL/OLVS/OpusLoriDemoVS/Content/Meshes/Assets/M_Mask.uasset",
+				"C:/Git/OL/OLVS/OpusLoriDemoVS/Content/Meshes/Assets/SM_Mask_cloth.uasset",
+				"C:/Git/OL/OLVS/OpusLoriDemoVS/Content/Meshes/Assets/T_Mask.uasset",
+				"C:/Git/OL/OLVS/OpusLoriDemoVS/Content/Meshes/Assets/T_Mask_n.uasset",
+				"C:/Git/OL/OLVS/OpusLoriDemoVS/Content/Meshes/Assets/T_Mask_r.uasset",
+				"D:/UnrealEngineProjects_UE5/Unreal5pt1CppTempest - Copy/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+			]
+		}
+	]
+}
