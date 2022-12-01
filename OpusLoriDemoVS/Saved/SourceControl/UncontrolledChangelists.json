@@ -72,6 +72,21 @@
 				"C:/Git/OL/OLVS/OpusLoriDemoVS/Content/Materials/MI_Darken_1.uasset",
 				"C:/Git/OL/OLVS/OpusLoriDemoVS/Content/Gothic_Character/Textures/Mesh/T_Gothic_character_Face_BaseColor.uasset",
 				"C:/Git/OL/OLVS/OpusLoriDemoVS/Content/Gothic_Character/Textures/Eyes/T_Gothic_Character_Eye_BaseColor.uasset",
+				"C:/Git/OL/OLVS/OpusLoriDemoVS/Content/TempestCombatFramework/Weapons/BP_SwordGunWeapon.uasset",
+				"C:/Git/OL/OLVS/OpusLoriDemoVS/Content/TempestCombatFramework/AI/Mesh/AI_GS_Mannequin_ABP.uasset",
+				"C:/Git/OL/OLVS/OpusLoriDemoVS/Content/TempestCombatFramework/Mannequin/Character/Mesh/Player_UE4_Mannequin_ABP.uasset",
+				"C:/Git/OL/OLVS/OpusLoriDemoVS/Content/TempestCombatFramework/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset",
+				"C:/Git/OL/OLVS/OpusLoriDemoVS/Content/Gothic_Character/Demo/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset",
+				"C:/Git/OL/OLVS/OpusLoriDemoVS/Content/ModularKnight/Demo/ThirdPerson_IdleRun_2D.uasset",
+				"C:/Git/OL/OLVS/OpusLoriDemoVS/Content/Bandit/Demo/Animations/ThirdPerson_IdleRun_2D.uasset",
+				"C:/Git/OL/OLVS/OpusLoriDemoVS/Content/SkeletonMage/Animations/ThirdPerson_IdleRun_2D.uasset",
+				"C:/Git/OL/OLVS/OpusLoriDemoVS/Content/TempestCombatFramework/AI/Mesh/BlendSpaces/BS_AI_LadyWalkCycle.uasset",
+				"C:/Git/OL/OLVS/OpusLoriDemoVS/Content/Protector_Common_Idle.uasset",
+				"C:/Git/OL/OLVS/OpusLoriDemoVS/Content/TempestCombatFramework/AI/DataAssets/Curto_EnemyDA/DA_GS_Enemy-BigBossGothicKnightCurtoEdit.uasset",
+				"C:/Git/OL/OLVS/OpusLoriDemoVS/Plugins/TempestCombatFramework/Content/States/Enemy/BP_EnemyDeathState.uasset",
+				"C:/Git/OL/OLVS/OpusLoriDemoVS/Content/TempestCombatFramework/AI/Enemy/CurtoEnemyBigBoss/TestEnemyGS_BP_Child-SK_BigBossGothicKnightVACurtoEdit.uasset",
+				"C:/Git/OL/OLVS/OpusLoriDemoVS/Plugins/TempestCombatFramework/Content/Abilities/Enemy/BP_EnemyNormalDeathAbility.uasset",
+				"C:/Git/OL/OLVS/OpusLoriDemoVS/Content/CustomHealthBar/WB_CustomHealthbar.uasset",
 				"D:/UnrealEngineProjects_UE5/Unreal5pt1CppTempest - Copy/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
 			]
 		}
