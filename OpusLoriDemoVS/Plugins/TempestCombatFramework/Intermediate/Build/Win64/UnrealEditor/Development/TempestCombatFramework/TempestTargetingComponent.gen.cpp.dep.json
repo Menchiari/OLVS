@@ -1,0 +1,18 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\git\\ol\\olvs\\opusloridemovs\\plugins\\tempestcombatframework\\intermediate\\build\\win64\\unrealeditor\\inc\\tempestcombatframework\\uht\\tempesttargetingcomponent.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\git\\ol\\olvs\\opusloridemovs\\intermediate\\build\\win64\\unreal5pt1cpptempesteditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\git\\ol\\olvs\\opusloridemovs\\plugins\\tempestcombatframework\\intermediate\\build\\win64\\unrealeditor\\development\\tempestcombatframework\\definitions.tempestcombatframework.h",
+            "c:\\git\\ol\\olvs\\opusloridemovs\\plugins\\tempestcombatframework\\source\\tempestcombatframework\\public\\components\\tempesttargetingcomponent.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\gameplaytags\\classes\\gameplaytagcontainer.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\core\\public\\misc\\comparisonutility.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplaytags\\uht\\gameplaytagcontainer.generated.h",
+            "c:\\git\\ol\\olvs\\opusloridemovs\\plugins\\tempestcombatframework\\intermediate\\build\\win64\\unrealeditor\\inc\\tempestcombatframework\\uht\\tempesttargetingcomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

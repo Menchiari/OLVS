@@ -1,0 +1,27 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\git\\ol\\olvs\\opusloridemovs\\plugins\\tempestcombatframework\\intermediate\\build\\win64\\unrealeditor\\inc\\tempestcombatframework\\uht\\tempestbaseconditionobject.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\git\\ol\\olvs\\opusloridemovs\\intermediate\\build\\win64\\unreal5pt1cpptempesteditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\git\\ol\\olvs\\opusloridemovs\\plugins\\tempestcombatframework\\intermediate\\build\\win64\\unrealeditor\\development\\tempestcombatframework\\definitions.tempestcombatframework.h",
+            "c:\\git\\ol\\olvs\\opusloridemovs\\plugins\\tempestcombatframework\\source\\tempestcombatframework\\public\\objects\\tempestbaseconditionobject.h",
+            "c:\\git\\ol\\olvs\\opusloridemovs\\plugins\\tempestcombatframework\\source\\tempestcombatframework\\public\\objects\\tempestbaseobject.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\coreuobject\\public\\uobject\\noexporttypes.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\core\\public\\math\\unitconversion.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\core\\public\\math\\unitconversion.inl",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\core\\public\\misc\\optionalfwd.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\core\\public\\internationalization\\polyglottextdata.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\coreuobject\\public\\assetregistry\\arfilter.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\gameplaytags\\classes\\gameplaytagcontainer.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\core\\public\\misc\\comparisonutility.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplaytags\\uht\\gameplaytagcontainer.generated.h",
+            "c:\\git\\ol\\olvs\\opusloridemovs\\plugins\\tempestcombatframework\\intermediate\\build\\win64\\unrealeditor\\inc\\tempestcombatframework\\uht\\tempestbaseobject.generated.h",
+            "c:\\git\\ol\\olvs\\opusloridemovs\\plugins\\tempestcombatframework\\intermediate\\build\\win64\\unrealeditor\\inc\\tempestcombatframework\\uht\\tempestbaseconditionobject.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
