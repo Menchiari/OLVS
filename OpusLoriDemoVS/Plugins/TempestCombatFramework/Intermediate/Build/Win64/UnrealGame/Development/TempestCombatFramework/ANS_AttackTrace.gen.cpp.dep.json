@@ -1,0 +1,17 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\git\\ol\\olvs\\opusloridemovs\\plugins\\tempestcombatframework\\intermediate\\build\\win64\\unrealgame\\inc\\tempestcombatframework\\uht\\ans_attacktrace.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\git\\ol\\olvs\\opusloridemovs\\intermediate\\build\\win64\\unreal5pt1cpptempest\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\git\\ol\\olvs\\opusloridemovs\\plugins\\tempestcombatframework\\intermediate\\build\\win64\\unrealgame\\development\\tempestcombatframework\\definitions.tempestcombatframework.h",
+            "c:\\git\\ol\\olvs\\opusloridemovs\\plugins\\tempestcombatframework\\source\\tempestcombatframework\\public\\notifies\\ans_attacktrace.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\animation\\animnotifies\\animnotifystate.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\animnotifystate.generated.h",
+            "c:\\git\\ol\\olvs\\opusloridemovs\\plugins\\tempestcombatframework\\intermediate\\build\\win64\\unrealgame\\inc\\tempestcombatframework\\uht\\ans_attacktrace.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

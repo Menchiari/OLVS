@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:04069caab0c7b667030c8f6c293db99abc7336cd35fae2b18af1dd7bc8e4070e
-size 862
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-TempestCameraSystems.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Git\OL\OLVS\OpusLoriDemoVS\Intermediate\Build\Win64\Unreal5pt1CppTempestEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Git\OL\OLVS\OpusLoriDemoVS\Plugins\TempestCombatFramework\Intermediate\Build\Win64\UnrealEditor\Development\TempestCameraSystems\Module.TempestCameraSystems.cpp.obj"
+"C:\Git\OL\OLVS\OpusLoriDemoVS\Plugins\TempestCombatFramework\Intermediate\Build\Win64\UnrealEditor\Development\TempestCameraSystems\TempestBaseCameraMode.gen.cpp.obj"
+"C:\Git\OL\OLVS\OpusLoriDemoVS\Plugins\TempestCombatFramework\Intermediate\Build\Win64\UnrealEditor\Development\TempestCameraSystems\TempestBaseCameraProperty.gen.cpp.obj"
+"C:\Git\OL\OLVS\OpusLoriDemoVS\Plugins\TempestCombatFramework\Intermediate\Build\Win64\UnrealEditor\Development\TempestCameraSystems\TempestCameraModeComponent.gen.cpp.obj"
+"C:\Git\OL\OLVS\OpusLoriDemoVS\Plugins\TempestCombatFramework\Intermediate\Build\Win64\UnrealEditor\Development\TempestCameraSystems\TempestCameraSystems.init.gen.cpp.obj"
+"C:\Git\OL\OLVS\OpusLoriDemoVS\Plugins\TempestCombatFramework\Intermediate\Build\Win64\UnrealEditor\Development\TempestCameraSystems\Default.rc2.res"
+/OUT:"C:\Git\OL\OLVS\OpusLoriDemoVS\Plugins\TempestCombatFramework\Intermediate\Build\Win64\UnrealEditor\Development\TempestCameraSystems\UnrealEditor-TempestCameraSystems.lib"

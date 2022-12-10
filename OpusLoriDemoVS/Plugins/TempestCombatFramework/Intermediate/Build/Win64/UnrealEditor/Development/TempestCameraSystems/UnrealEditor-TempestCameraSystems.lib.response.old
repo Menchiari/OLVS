@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:59d6e243d8d5d5b92684532052c22afd3ec43f045fa103a4d3db5da44cd38307
-size 959
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-TempestCameraSystems.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Git\OL\OLVS\OpusLoriDemoVS\Intermediate\Build\Win64\Unreal5pt1CppTempestEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Git\OL\OLVS\OpusLoriDemoVS\Plugins\TempestCombatFramework\Intermediate\Build\Win64\UnrealEditor\Development\TempestCameraSystems\Module.TempestCameraSystems.cpp.obj"
+"C:\Git\OL\OLVS\OpusLoriDemoVS\Plugins\TempestCombatFramework\Intermediate\Build\Win64\UnrealEditor\Development\TempestCameraSystems\Default.rc2.res"
+/OUT:"C:\Git\OL\OLVS\OpusLoriDemoVS\Plugins\TempestCombatFramework\Intermediate\Build\Win64\UnrealEditor\Development\TempestCameraSystems\UnrealEditor-TempestCameraSystems.lib"

@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\git\\ol\\olvs\\opusloridemovs\\plugins\\tempestcombatframework\\intermediate\\build\\win64\\unrealgame\\inc\\tempestcombatframework\\uht\\tempestgeneral_pda.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\git\\ol\\olvs\\opusloridemovs\\intermediate\\build\\win64\\unreal5pt1cpptempest\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\git\\ol\\olvs\\opusloridemovs\\plugins\\tempestcombatframework\\intermediate\\build\\win64\\unrealgame\\development\\tempestcombatframework\\definitions.tempestcombatframework.h",
+            "c:\\git\\ol\\olvs\\opusloridemovs\\plugins\\tempestcombatframework\\source\\tempestcombatframework\\public\\dataassets\\tempestgeneral_pda.h",
+            "c:\\git\\ol\\olvs\\opusloridemovs\\plugins\\tempestcombatframework\\intermediate\\build\\win64\\unrealgame\\inc\\tempestcombatframework\\uht\\tempestgeneral_pda.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

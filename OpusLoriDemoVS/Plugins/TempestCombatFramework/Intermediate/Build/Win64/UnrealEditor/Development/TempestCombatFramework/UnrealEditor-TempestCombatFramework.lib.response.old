@@ -1,3 +1,13 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f60c5aff022099626395dcc130272ac0b025852e6fdb065deae107cda269946d
-size 975
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-TempestCombatFramework.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Git\OL\OLVS\OpusLoriDemoVS\Intermediate\Build\Win64\Unreal5pt1CppTempestEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Git\OL\OLVS\OpusLoriDemoVS\Plugins\TempestCombatFramework\Intermediate\Build\Win64\UnrealEditor\Development\TempestCombatFramework\Module.TempestCombatFramework.1_of_2.cpp.obj"
+"C:\Git\OL\OLVS\OpusLoriDemoVS\Plugins\TempestCombatFramework\Intermediate\Build\Win64\UnrealEditor\Development\TempestCombatFramework\Module.TempestCombatFramework.2_of_2.cpp.obj"
+"C:\Git\OL\OLVS\OpusLoriDemoVS\Plugins\TempestCombatFramework\Intermediate\Build\Win64\UnrealEditor\Development\TempestCombatFramework\Default.rc2.res"
+/OUT:"C:\Git\OL\OLVS\OpusLoriDemoVS\Plugins\TempestCombatFramework\Intermediate\Build\Win64\UnrealEditor\Development\TempestCombatFramework\UnrealEditor-TempestCombatFramework.lib"
